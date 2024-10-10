@@ -28,13 +28,13 @@ criaCartao(
 criaCartao(
     'Livros',
     'Quais os livros favoritos da Emily?',
-    'Coraline, Jogos de herança e Manual de Assassinato Para Boas Garotas.'
+    '"Coraline", "Jogos de herança" e "Manual de Assassinato Para Boas Garotas".'
 )
 
 criaCartao(
     'Livros',
     'Que livro surpreendeu a Emily?',
-    'Noite na taverna, E não sobrou nenhum, a ilha da sete luas.'
+    '"Noite na taverna", "E não sobrou nenhum", "A ilha da sete luas".'
 
 )
 
